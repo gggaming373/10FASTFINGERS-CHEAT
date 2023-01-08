@@ -7,7 +7,7 @@ How to use it?
 
 .....................................................................................
 
-Download toybox from microsoft store,
+Download powertoys from microsoft store,
 
 Open it and change the sortcut of "Text Extractor utility" to "[Ctrl] [Alt] [Shift] [M]",
 
