@@ -6,7 +6,8 @@ How to use it?
 Download toybox from microsoft store,
 Open it and change the sortcut of "Text Extractor utility" to "[Ctrl] [Alt] [Shift] [M]",
 Open your typing test,
-Do this until you are done
+
+Do this until you are done : 
   Run the code,
   Select the area of the text,
   Wait for a second or two,
